@@ -12,3 +12,4 @@ This is a highlight of setting up of active directory for IAM
 8.	Create two groups within Ous
 9.	Add user and configure each user
 10.	Create a group policy
+[HOME VIRTUAL LAB PROJECT.pdf](https://github.com/user-attachments/files/22567455/HOME.VIRTUAL.LAB.PROJECT.pdf)
